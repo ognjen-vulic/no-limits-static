@@ -319,6 +319,7 @@ p{
 }
 .demo-table-cell .row{
 	place-items: center;
+	align-items: stretch;
 }
 
 .banner-text{

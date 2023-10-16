@@ -59,7 +59,7 @@ p{color:#7f8e9d;}
 .ps-items::-webkit-scrollbar-thumb{background:#0696fb;}
 .ps-items::-webkit-scrollbar-thumb:hover{background:#0696fb;}
 .ps-items img{width:100% !important;border-radius:0 0 8px 8px;}
-.demo-table-cell .row{place-items:center;}
+.demo-table-cell .row{place-items:center;align-items: stretch;}
 .banner-text{position:relative;padding-left:35px;z-index:3;}
 .banner-text:before{width:150px;height:282px;top:-50px;position:absolute;content:'';border:solid 10px #2a2d42;z-index:1;left:0;}
 .banner-text:after{width:150px;height:282px;top:-50px;position:absolute;content:'';background:-moz-linear-gradient(-45deg, rgba(34,36,51,1) 0%, rgba(33,35,49,1) 72%, rgba(33,35,49,1) 81%, rgba(33,35,50,0) 100%);background:-webkit-linear-gradient(-45deg, rgba(34,36,51,1) 0%,rgba(33,35,49,1) 72%,rgba(33,35,49,1) 81%,rgba(33,35,50,0) 100%);background:linear-gradient(135deg, rgba(34,36,51,1) 0%,rgba(33,35,49,1) 72%,rgba(33,35,49,1) 81%,rgba(33,35,50,0) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#222433', endColorstr='#00212332',GradientType=1 );z-index:2;right:120px;}
